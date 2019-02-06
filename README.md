@@ -5,6 +5,8 @@ When I go to the supermarket, I oftern feel confused when buying green leafy cul
 
 Because I live in China, I will limit my classifier to herbs commonly available at vegetable markets in Beijing. Some of them don't have English names.
 
+## Supported Leafy Greens
+
 | ﻿Class 	|  Chinese 	|     Pinyin    	|      English     	|           Note          	|
 |:-----:	|:--------:	|:-------------:	|:----------------:	|:-----------------------:	|
 |     1 	| 白菜     	| bái cài       	| Chinese cabbage  	|                         	|
